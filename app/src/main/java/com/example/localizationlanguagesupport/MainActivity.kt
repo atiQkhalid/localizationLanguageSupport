@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         editor.apply()
     }
 
-    fun loadLocate(){
+    private fun loadLocate(){
         var preferences = getSharedPreferences("Settings", Activity.MODE_PRIVATE)
         var localizedLanguage = preferences.getString("My_Lang", "")
         setLocate(localizedLanguage!!)
