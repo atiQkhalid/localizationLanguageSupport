@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationLanguageSupport</string>
+    <string name="hello_world">Selam Dünya</string>
+    <string name="localized_language">Yerelleştirilmiş Dil Türkçedir</string>
+    <string name="english">Ingilizce</string>
+    <string name="turkish">Türk</string>
+</resources>

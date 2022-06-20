@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LocalizationLanguageSupport</string>
+    <string name="hello_world">Hallo World</string>
+    <string name="localized_language">Localized Language is English</string>
+    <string name="english">English</string>
+    <string name="turkish">Turkish</string>
 </resources>
